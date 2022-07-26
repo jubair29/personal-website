@@ -2,7 +2,7 @@
 
 
 body{
-  /* margin: 0; */
+  margin: 0;
   font-family: 'Poppins', sans-serif;
 }
 .half_site{
@@ -87,7 +87,6 @@ h6{
 .last_part{
   background-color: deeppink;
   width: 300px;
-  align: center;
 }
 .last{
   margin-left: 38%;
